@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-dash-import",
   "version": "1.0.0",
-  "description": "babel plugin for DASH CASE STYLE import",
+  "description": "babel plugin for DASH-CASE-STYLE import",
   "main": "src/index.js",
   "scripts": {
     "test": "node test.js"
@@ -12,6 +12,10 @@
   ],
   "author": "renwangyu",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/renwangyu/babel-plugin-dash-import"
+  },
   "dependencies": {
     "change-case": "^4.1.1"
   },
